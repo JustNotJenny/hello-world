@@ -1,3 +1,3 @@
 # hello-world
-hello world, github practice/n
+hello world, github practice.
 my name is jennifer
